@@ -61,7 +61,7 @@
   - ["","",""]
   - ["","",""]
   - ["","",""]
-- ] เวลา Access ข้อมูลจะ Access ได้เหมือน Array 2 มิติ
+  - ] เวลา Access ข้อมูลจะ Access ได้เหมือน Array 2 มิติ board[][]
 - เริ่ม Algorithm สำหรับตรวจสอบหาผู้ชนะ
   - โดยจะทำการสร้าง function checkWinner โดยจะมา parameter เป็นตัว board ที่เก็บข้อมูลเป็น List หรือก็คือตาราง XO ทั้งหมด และ BoardSize ขนาดของ Board โดย function จะ Return เป็น Boolean
   - โดยจะไล่ตรวจตามแถว Row ก่อน(แนวนอน)
