@@ -12,8 +12,14 @@
 - **JDK:** 11 หรือสูงกว่า
 - **Gradle:** 7.0 หรือใหม่กว่า
 - **ระบบปฏิบัติการ:** Windows, macOS หรือ Linux
-- **ปลั๊กอิน Hilt:** สำหรับ Dependency Injection
 
+### Dependency ที่ใช้ในโปรเจค
+   - **Android & Jetpack Compose:**
+   - **Core libraries**
+   - **Compose UI libraries**
+   - **Room (สำหรับจัดการฐานข้อมูลในเครื่อง)**
+   - **Hilt (Dependency Injection)**
+   - **Navigation (การจัดการการนำทางสู่หน้าจออื่น)**
 ### ขั้นตอนการตั้งค่า
 
 1. **ติดตั้ง Android Studio**
