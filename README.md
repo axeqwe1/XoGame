@@ -14,12 +14,13 @@
 - **ระบบปฏิบัติการ:** Windows, macOS หรือ Linux
 
 ### Dependency ที่ใช้ในโปรเจค
-   - **Android & Jetpack Compose:**
+   - **Android & Jetpack Compose**
    - **Core libraries**
    - **Compose UI libraries**
    - **Room (สำหรับจัดการฐานข้อมูลในเครื่อง)**
    - **Hilt (Dependency Injection)**
    - **Navigation (การจัดการการนำทางสู่หน้าจออื่น)**
+
 ### ขั้นตอนการตั้งค่า
 
 1. **ติดตั้ง Android Studio**
